@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Website Home
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Hi!
+This is my current website right now, it is pretty barebones and honestly just something I've been thinking of doing as a personal blog to document hobbies and such.
+
+
