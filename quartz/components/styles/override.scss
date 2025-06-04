@@ -1,0 +1,18 @@
+.two-up {
+    display: flex;
+    flex-wrap: wrap;          /* ← lets panels stack on narrow screens */
+    gap: 1rem;
+  }
+  
+  .two-up figure {            /* each panel */
+    flex: 1 1 320px;          /* 2-up above 640 px, 1-up below */
+    margin: 0;
+    text-align: center;
+  }
+  
+  .two-up img {
+    width: 100%;
+    height: auto;             /* keep aspect ratio */
+    display: block;
+  }
+  
